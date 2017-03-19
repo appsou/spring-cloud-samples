@@ -1,6 +1,6 @@
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://localhost:8000/eureka/
+      defaultZone: http://peer2:8002/eureka/
 sentence:
   words: 美丽的,勇敢的,积极的
